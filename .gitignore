@@ -1,0 +1,13 @@
+# Executables
+*.exe
+
+# Generated folders
+output/
+reports/
+
+# VS Code
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
